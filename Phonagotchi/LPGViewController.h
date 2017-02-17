@@ -7,7 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "LPGPetModel.h"
 
 @interface LPGViewController : UIViewController
+
 
 @end
